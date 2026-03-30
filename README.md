@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c47ff,50:9d7bff,100:c8ff57&height=200&section=header&text=Prateek%20Singh&fontSize=56&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Angular&descAlignY=60&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c47ff,50:9d7bff,100:c8ff57&height=210&section=header&text=Prateek%20Singh&fontSize=58&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Angular&descAlignY=60&descSize=19&animation=twinkling" width="100%"/>
 
 <div align="center">
 
-<a href="mailto:prateeksingh0710@gmail.com"><img src="https://img.shields.io/badge/prateeksingh0710%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="mailto:prateeksingh0710@gmail.com"><img src="https://img.shields.io/badge/Gmail-prateeksingh0710-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://linkedin.com/in/prateeksinghdev"><img src="https://img.shields.io/badge/LinkedIn-prateeksinghdev-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://pr4teek-singh.github.io"><img src="https://img.shields.io/badge/Portfolio-pr4teek--singh.github.io-6c47ff?style=flat-square&logo=googlechrome&logoColor=white"/></a>&nbsp;
+<a href="https://pr4teek-singh.github.io"><img src="https://img.shields.io/badge/Portfolio-Live-6c47ff?style=flat-square&logo=googlechrome&logoColor=white"/></a>&nbsp;
 <a href="https://hackerrank.com/profile/prateeksingh0710"><img src="https://img.shields.io/badge/HackerRank-Java%20Certified-00EA64?style=flat-square&logo=hackerrank&logoColor=white"/></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=Pr4TeeK-Singh&color=6c47ff&style=flat-square&label=Profile+Views"/>
 
@@ -12,26 +12,58 @@
 
 <br/>
 
+<div align="center">
+
 ```
-  👋  Hey, I'm Prateek — I build full-stack systems that are fast, secure, and actually maintainable.
-  ⚡  30% WebSocket latency cut · 25% JDBC boilerplate reduction · 4+ production projects shipped
-  🎯  Currently: B.Tech CSE @ AKTU · Open to full-time Full Stack Developer roles in NCR
+  👋  I'm Prateek — I build full-stack systems that are fast, secure, and actually maintainable.
+  ⚡  30% WebSocket latency cut  ·  25% JDBC boilerplate reduction  ·  4+ production projects shipped
+  🎯  B.Tech CSE @ AKTU · Open to full-time Full Stack Developer roles · NCR & Remote
 ```
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a **Full Stack Developer** from Greater Noida who takes features from zero to production — REST API design, WebSocket systems, JWT-secured backends, and Angular SPAs. I care about clean architecture, testable code, and software that can actually be handed off.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-| | |
-|---|---|
-| 🎓 | **B.Tech Computer Science** — AKTU, Greater Noida (2021–2025) |
-| 🏅 | **Java Developer Certified** — HackerRank (2024) |
-| ⚡ | Reduced real-time chat latency **30%** via WebSocket optimization |
-| 🔐 | Built JWT + RBAC auth systems with Spring Security |
-| 🧪 | Full JUnit 5 test coverage on production projects |
-| 📬 | **Open to full-time Full Stack Developer roles** — NCR & Remote |
+I'm a **Full Stack Developer** from Greater Noida who takes features from zero to production — REST API design, WebSocket real-time systems, JWT-secured backends, and Angular SPAs. I care about clean architecture, testable code, and software that can actually be **handed off cleanly**.
+
+<br/>
+
+**Currently finishing** my B.Tech at AKTU (2025) and actively seeking **full-time Full Stack Developer** roles in NCR or remote. My Java certification from HackerRank and hands-on project work reflect the kind of developer I am — someone who builds things that actually work in production.
+
+<br/>
+
+When I'm not coding, I'm representing my university in **inter-college volleyball** 🏐
+
+</td>
+<td width="42%" valign="top">
+
+<br/>
+
+![](https://img.shields.io/badge/🎓%20B.Tech%20CSE-AKTU%20·%202021–2025-6c47ff?style=flat-square&labelColor=0d0d18)
+
+![](https://img.shields.io/badge/🏅%20Java%20Certified-HackerRank%20·%202024-00EA64?style=flat-square&labelColor=0d0d18)
+
+![](https://img.shields.io/badge/⚡%2030%25%20Latency%20Cut-WebSocket%20Optimization-f9a94a?style=flat-square&labelColor=0d0d18)
+
+![](https://img.shields.io/badge/📉%2025%25%20Less%20Boilerplate-JDBC%20Optimization-9d7bff?style=flat-square&labelColor=0d0d18)
+
+![](https://img.shields.io/badge/🔐%20JWT%20%2B%20RBAC-Spring%20Security%20Auth-c8ff57?style=flat-square&labelColor=0d0d18)
+
+![](https://img.shields.io/badge/🧪%20Full%20Test%20Coverage-JUnit%205%20on%20Production-4df0c0?style=flat-square&labelColor=0d0d18)
+
+![](https://img.shields.io/badge/🚀%204%2B%20Projects-Production%20Grade-ff6b8a?style=flat-square&labelColor=0d0d18)
+
+![](https://img.shields.io/badge/📬%20Open%20to%20Work-Full%20Stack%20·%20NCR%20%26%20Remote-brightgreen?style=flat-square&labelColor=0d0d18)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -39,7 +71,7 @@ I'm a **Full Stack Developer** from Greater Noida who takes features from zero t
 
 <div align="center">
 
-**Core Languages**
+**Languages**
 
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -85,12 +117,12 @@ I'm a **Full Stack Developer** from Greater Noida who takes features from zero t
 ### 💬 Real-Time Chat Application
 **[View Repo →](https://github.com/Pr4TeeK-Singh/realtime-chat-app)**
 
-Full-duplex messaging with Spring WebSocket + STOMP and Angular 21. Owns the full stack — auth, session, history.
+Full-duplex messaging with Spring WebSocket + STOMP and Angular 21. Owns the full stack — auth, session, persistent history.
 
 ```
 ⚡ 30% latency reduction via WebSocket tuning
-🔐 User authentication + session management  
-💾 Persistent chat history
+🔐 User authentication + session management
+💾 Persistent chat history across sessions
 ```
 
 `Java 21` `Spring Boot 4` `WebSocket` `Angular 21` `RxJS` `Bootstrap`
@@ -104,9 +136,9 @@ Full-duplex messaging with Spring WebSocket + STOMP and Angular 21. Owns the ful
 Secure REST API with JWT auth, RBAC, full CRUD, input validation, and optimized JDBC queries.
 
 ```
-🔒 JWT + role-based access control
+🔒 JWT + role-based access control (RBAC)
 📉 25% boilerplate reduction via JDBC opt.
-✅ Full input validation layer
+✅ Input validation + error handling
 ```
 
 `Spring Security` `JWT` `JDBC` `MySQL` `REST API`
@@ -119,7 +151,7 @@ Secure REST API with JWT auth, RBAC, full CRUD, input validation, and optimized 
 ### ✅ To-Do Application
 **[View Repo →](https://github.com/Pr4TeeK-Singh/todo-application)**
 
-Full-stack task manager — Spring Security-protected routes, Thymeleaf SSR, responsive Bootstrap UI.
+Full-stack task manager — Spring Security-protected routes, Thymeleaf SSR, clean Bootstrap UI.
 
 `Spring Boot` `Spring Security` `Thymeleaf` `MySQL` `Bootstrap`
 
@@ -129,7 +161,7 @@ Full-stack task manager — Spring Security-protected routes, Thymeleaf SSR, res
 ### 👔 Employee Management System
 **[View Repo →](https://github.com/Pr4TeeK-Singh/employee-management-system)**
 
-Angular 21 SPA consuming a Spring Boot REST API. Full JUnit 5 test coverage — built to be handed off cleanly.
+Angular 21 SPA consuming a Spring Boot REST API. Full JUnit 5 test coverage — built to be handed off.
 
 `Spring Boot` `Angular 21` `JUnit 5` `REST APIs` `MySQL`
 
@@ -143,17 +175,17 @@ Angular 21 SPA consuming a Spring Boot REST API. Full JUnit 5 test coverage — 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pr4TeeK-Singh&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d18&title_color=9d7bff&icon_color=c8ff57&text_color=f0ece4&ring_color=6c47ff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pr4TeeK-Singh&show_icons=true&count_private=true&hide_border=true&bg_color=0d0d18&title_color=9d7bff&icon_color=c8ff57&text_color=c9c5d5&include_all_commits=true" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr4TeeK-Singh&layout=compact&theme=radical&hide_border=true&bg_color=0d0d18&title_color=9d7bff&text_color=f0ece4&langs_count=6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr4TeeK-Singh&layout=compact&hide_border=true&bg_color=0d0d18&title_color=9d7bff&text_color=c9c5d5&langs_count=6" height="170"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Pr4TeeK-Singh&theme=radical&hide_border=true&background=0d0d18&ring=6c47ff&fire=c8ff57&currStreakLabel=9d7bff&sideLabels=9d7bff&dates=6b6776" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Pr4TeeK-Singh&hide_border=true&background=0d0d18&ring=6c47ff&fire=c8ff57&currStreakLabel=9d7bff&sideLabels=9d7bff&dates=6b6776&stroke=6c47ff&sideNums=f0ece4&currStreakNum=f0ece4" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pr4TeeK-Singh&theme=tokyo-night&hide_border=true&bg_color=0d0d18&color=9d7bff&line=6c47ff&point=c8ff57&area=true&area_color=6c47ff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pr4TeeK-Singh&theme=tokyo-night&hide_border=true&bg_color=0d0d18&color=9d7bff&line=6c47ff&point=c8ff57&area=true" width="100%"/>
 
 </div>
 
@@ -163,7 +195,7 @@ Angular 21 SPA consuming a Spring Boot REST API. Full JUnit 5 test coverage — 
 
 <div align="center">
 
-I'm actively looking for **Full Stack Developer** opportunities — if you're building something with Java, Spring Boot or Angular, let's talk.
+I'm actively looking for **Full Stack Developer** opportunities — if you're building with Java, Spring Boot, or Angular, I'd love to talk.
 
 <br/>
 
@@ -176,5 +208,7 @@ I'm actively looking for **Full Stack Developer** opportunities — if you're bu
 > *"I don't just write code that works — I write code that lasts."*
 
 </div>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c47ff,50:9d7bff,100:c8ff57&height=120&section=footer" width="100%"/>

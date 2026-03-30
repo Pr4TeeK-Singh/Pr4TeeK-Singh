@@ -12,18 +12,34 @@
 
 <br/>
 
-## 👨‍💻 About Me
+---
 
-Hey! I'm **Prateek Singh**, a Full Stack Developer from NCR, India 🇮🇳
+## About Me
 
-I build scalable, production-ready web applications using **Java**, **Spring Boot**, and **Angular**. I enjoy working across the full stack — from designing secure REST APIs and JWT-based auth systems on the backend, to crafting responsive, reactive UIs on the frontend.
+I'm a **Full Stack Developer** based in NCR, India, focused on building scalable, production-ready web applications. My core stack is **Java + Spring Boot** on the backend and **Angular** on the frontend — I'm comfortable owning a feature from REST API design all the way to a polished, reactive UI.
 
-- 🎓 B.Tech in Computer Science — **AKTU** (2021–2025)
-- 🏅 **Java Certified** — HackerRank
-- ⚡ Reduced real-time chat message latency by **30%** using WebSocket optimization
-- 🛡️ Passionate about clean architecture, security, and writing testable code
-- 🏐 Volleyball player | Mentored juniors in Java & Spring Boot
-- 📬 Open to **full-time Full Stack Developer** opportunities
+<table>
+  <tr>
+    <td>🎓</td>
+    <td>B.Tech in Computer Science &nbsp;·&nbsp; <strong>AKTU</strong> &nbsp;·&nbsp; 2021–2025</td>
+  </tr>
+  <tr>
+    <td>🏅</td>
+    <td>Java Certified &nbsp;·&nbsp; <strong>HackerRank</strong></td>
+  </tr>
+  <tr>
+    <td>⚡</td>
+    <td>Reduced real-time chat latency by <strong>30%</strong> through WebSocket optimization</td>
+  </tr>
+  <tr>
+    <td>🔒</td>
+    <td>Strong focus on clean architecture, security patterns, and testable code</td>
+  </tr>
+  <tr>
+    <td>📬</td>
+    <td>Open to <strong>full-time Full Stack Developer</strong> roles</td>
+  </tr>
+</table>
 
 ---
 
@@ -80,9 +96,9 @@ I build scalable, production-ready web applications using **Java**, **Spring Boo
 
 **Tech:** `Java 21` `Spring Boot 4` `WebSocket` `Angular 21` `RxJS` `Bootstrap`
 
-- ⚡ Reduced message latency by **30%** via WebSocket optimization
-- 🔐 User authentication + session management
-- 💾 Persistent chat history
+- Reduced message latency by **30%** via WebSocket optimization
+- User authentication + session management
+- Persistent chat history
 
 </td>
 <td width="50%">
@@ -93,9 +109,9 @@ I build scalable, production-ready web applications using **Java**, **Spring Boo
 
 **Tech:** `Java 21` `Spring Boot 4` `Spring Security` `JWT` `JDBC` `MySQL`
 
-- 🔒 JWT-based auth + role-based access control
-- ⚙️ Reduced boilerplate by **25%** via JDBC optimization
-- 📋 Full CRUD with input validation
+- JWT-based auth + role-based access control
+- Reduced boilerplate by **25%** via JDBC optimization
+- Full CRUD with input validation
 
 </td>
 </tr>
@@ -127,22 +143,9 @@ I build scalable, production-ready web applications using **Java**, **Spring Boo
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Pr4TeeK-Singh&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr4TeeK-Singh&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b" />
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pr4TeeK-Singh&theme=radical&hide_border=true&background=0d1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b)](https://github.com/Pr4TeeK-Singh)
 
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
+<br/>
 
 [![Prateek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pr4TeeK-Singh&theme=redical&hide_border=true&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff)](https://github.com/Pr4TeeK-Singh)
 
@@ -158,7 +161,7 @@ I build scalable, production-ready web applications using **Java**, **Spring Boo
 [![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prateeksingh0710@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pr4TeeK-Singh)
 
-**💡 Open to full-time Full Stack Developer opportunities!**
+**Open to full-time Full Stack Developer opportunities**
 
 </div>
 

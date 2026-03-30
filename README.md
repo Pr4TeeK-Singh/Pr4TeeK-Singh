@@ -5,117 +5,161 @@
 <a href="mailto:prateeksingh0710@gmail.com"><img src="https://img.shields.io/badge/Gmail-prateeksingh0710-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/prateeksinghdev"><img src="https://img.shields.io/badge/LinkedIn-prateeksinghdev-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Pr4TeeK-Singh"><img src="https://img.shields.io/badge/GitHub-Pr4TeeK--Singh-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Location-NCR%2C%20India-FF6B6B?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=Pr4TeeK-Singh&color=blueviolet&style=flat-square&label=Profile+Views"/>
+
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+Hey! I'm **Prateek Singh**, a Full Stack Developer from NCR, India 🇮🇳
+
+I build scalable, production-ready web applications using **Java**, **Spring Boot**, and **Angular**. I enjoy working across the full stack — from designing secure REST APIs and JWT-based auth systems on the backend, to crafting responsive, reactive UIs on the frontend.
+
+- 🎓 B.Tech in Computer Science — **AKTU** (2021–2025)
+- 🏅 **Java Certified** — HackerRank
+- ⚡ Reduced real-time chat message latency by **30%** using WebSocket optimization
+- 🛡️ Passionate about clean architecture, security, and writing testable code
+- 🏐 Volleyball player | Mentored juniors in Java & Spring Boot
+- 📬 Open to **full-time Full Stack Developer** opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular_21-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+
+**Database & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-Hey, I'm **Prateek Singh** — a Full Stack Developer focused on building **secure, scalable backend systems and real-world applications**.
-
-I specialize in **Java, Spring Boot, and Angular**, and I enjoy solving problems around authentication, performance, and clean architecture.
-
-- 🚀 Focused on building production-ready applications, not just demo projects  
-- ⚡ Improved real-time chat latency by **30%** using WebSocket optimization  
-- 🛡️ Built secure systems using **JWT & Spring Security**  
-- 🧠 Focused on writing clean, maintainable, and testable code  
-- 📬 Open to full-time Full Stack Developer opportunities  
-
----
-
-## 🧠 Engineering Focus
-
-- Designing **secure authentication systems** using JWT  
-- Building **scalable REST APIs** with clean architecture  
-- Optimizing performance in **real-time applications (WebSocket)**  
-- Writing **modular, maintainable backend systems**  
-
----
-
-## ⭐ Flagship Project
-
-### 🏢 Land Management System
-
-A full-stack system designed to manage land records with secure authentication and role-based access.
-
-**Key Highlights:**
-
-- 🔐 JWT-based authentication with Spring Security  
-- 🧩 Role-based access control (Admin/User)  
-- ⚙️ Scalable backend architecture with clean structure  
-- 🔄 Full CRUD operations with validation  
-
-**Tech Stack:** Java, Spring Boot, Angular, MySQL  
-
-👉 https://github.com/Pr4TeeK-Singh/terra-ledger  
-
----
-
 ## 🚀 Featured Projects
 
-### 💬 Real-Time Chat Application
+<table>
+<tr>
+<td width="50%">
 
-Full-duplex real-time messaging system built using WebSocket architecture.
+### 💬 [Real-Time Chat Application](https://github.com/Pr4TeeK-Singh/realtime-chat-app)
+
+> Full-duplex real-time messaging with Spring WebSocket + Angular 21
 
 **Tech:** `Java 21` `Spring Boot 4` `WebSocket` `Angular 21` `RxJS` `Bootstrap`
 
-- ⚡ Reduced message latency by **30%** through optimized WebSocket handling  
-- 🔐 Implemented secure session-based authentication  
-- 💾 Designed persistent chat storage for message history  
-- 🧠 Focused on efficient real-time data flow and scalability  
+- ⚡ Reduced message latency by **30%** via WebSocket optimization
+- 🔐 User authentication + session management
+- 💾 Persistent chat history
 
-👉 https://github.com/Pr4TeeK-Singh/realtime-chat-app  
+</td>
+<td width="50%">
 
----
+### 🎓 [Student Management System](https://github.com/Pr4TeeK-Singh/student-management-system)
 
-### 🎓 Student Management System
-
-Secure REST API with role-based access & JWT authentication.
+> Secure REST API with role-based access & JWT auth
 
 **Tech:** `Java 21` `Spring Boot 4` `Spring Security` `JWT` `JDBC` `MySQL`
 
-- 🔒 JWT-based auth with role-based authorization  
-- ⚙️ Reduced boilerplate by **25%** using optimized JDBC handling  
-- 📋 Full CRUD operations with validation  
-- 🧠 Designed for scalability and maintainability  
+- 🔒 JWT-based auth + role-based access control
+- ⚙️ Reduced boilerplate by **25%** via JDBC optimization
+- 📋 Full CRUD with input validation
 
-👉 https://github.com/Pr4TeeK-Singh/student-management-system  
+</td>
+</tr>
+<tr>
+<td width="50%">
 
----
+### ✅ [To-Do Application](https://github.com/Pr4TeeK-Singh/todo-application)
 
-### ✅ To-Do Application
-
-Full-stack task manager with secure authentication and responsive UI.
+> Full-stack task manager with Spring Security & responsive Bootstrap UI
 
 **Tech:** `Spring Boot` `Spring Security` `Thymeleaf` `MySQL` `Bootstrap`
 
-👉 https://github.com/Pr4TeeK-Singh/todo-application  
+</td>
+<td width="50%">
 
----
+### 👔 [Employee Management System](https://github.com/Pr4TeeK-Singh/employee-management-system)
 
-### 👔 Employee Management System
-
-Full-stack system with Angular frontend and Spring Boot backend.
+> Full-stack app with Angular frontend, Spring Boot backend & JUnit tests
 
 **Tech:** `Spring Boot` `Angular` `MySQL` `JUnit` `REST APIs`
 
-👉 https://github.com/Pr4TeeK-Singh/employee-management-system  
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧪 What I’ve Built
+## 📊 GitHub Stats
 
-- Real-time systems using **WebSocket communication**  
-- Secure REST APIs with **JWT authentication**  
-- Full-stack applications with **Angular + Spring Boot**  
-- Scalable backend systems with clean architecture  
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Pr4TeeK-Singh&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr4TeeK-Singh&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pr4TeeK-Singh&theme=radical&hide_border=true&background=0d1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b)](https://github.com/Pr4TeeK-Singh)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Prateek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pr4TeeK-Singh&theme=redical&hide_border=true&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff)](https://github.com/Pr4TeeK-Singh)
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-- LinkedIn: https://linkedin.com/in/prateeksinghdev  
-- Email: prateeksingh0710@gmail.com  
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prateeksinghdev)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prateeksingh0710@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pr4TeeK-Singh)
 
 **💡 Open to full-time Full Stack Developer opportunities!**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>

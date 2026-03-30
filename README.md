@@ -10,29 +10,20 @@
 
 </div>
 
----
+<br/>
 
 ## 👨‍💻 About Me
 
-```java
-public class PrateekSingh extends FullStackDeveloper {
+Hey! I'm **Prateek Singh**, a Full Stack Developer from NCR, India 🇮🇳
 
-    String name        = "Prateek Singh";
-    String education   = "B.Tech CSE @ AKTU (2021–2025)";
-    String experience  = "Full Stack Dev Intern @ Advance Technology Consultancies Pvt Ltd";
-    String focus       = "Building scalable REST APIs & modern web apps";
+I build scalable, production-ready web applications using **Java**, **Spring Boot**, and **Angular**. I enjoy working across the full stack — from designing secure REST APIs and JWT-based auth systems on the backend, to crafting responsive, reactive UIs on the frontend.
 
-    String[] currentlyDoing = {
-        "🔭 Building real-world full-stack apps with Spring Boot & Angular",
-        "📚 Deepening expertise in Microservices & System Design",
-        "🤝 Mentoring peers in Java & Spring Boot",
-        "🏐 Leading the volleyball team in inter-college tournaments"
-    };
-
-    String lookingFor  = "Full-time Full Stack Developer role";
-    String funFact     = "I reduced message latency by 30% with WebSocket optimization 🚀";
-}
-```
+- 🎓 B.Tech in Computer Science — **AKTU** (2021–2025)
+- 🏅 **Java Certified** — HackerRank
+- ⚡ Reduced real-time chat message latency by **30%** using WebSocket optimization
+- 🛡️ Passionate about clean architecture, security, and writing testable code
+- 🏐 Volleyball player | Mentored juniors in Java & Spring Boot
+- 📬 Open to **full-time Full Stack Developer** opportunities
 
 ---
 
@@ -77,30 +68,6 @@ public class PrateekSingh extends FullStackDeveloper {
 
 ---
 
-## 💼 Work Experience
-
-<table>
-<tr>
-<td width="160" align="center">
-<b>🏢 Internship</b><br/><br/>
-<b>Aug 2025 –<br/>Jan 2026</b><br/><br/>
-NCR, India
-</td>
-<td>
-
-### Full Stack Developer Intern — Advance Technology Consultancies Pvt Ltd
-
-- 🔧 Designed & developed **RESTful APIs** with **Java 21 & Spring Boot 4** for land acquisition, plot subdivision & sales lifecycle management
-- 💰 Implemented a **double-entry ledger system** and automated **brokerage commission calculation** using JDBC
-- 📊 Built responsive **Angular 21** frontend with Services, RxJS Observables & HTTP Client for real-time bank balance tracking & plot management dashboard
-- ✅ Wrote **JUnit test cases** and performed manual & API testing to validate business logic and API responses
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🚀 Featured Projects
 
 <table>
@@ -113,7 +80,6 @@ NCR, India
 
 **Tech:** `Java 21` `Spring Boot 4` `WebSocket` `Angular 21` `RxJS` `Bootstrap`
 
-**Highlights:**
 - ⚡ Reduced message latency by **30%** via WebSocket optimization
 - 🔐 User authentication + session management
 - 💾 Persistent chat history
@@ -127,7 +93,6 @@ NCR, India
 
 **Tech:** `Java 21` `Spring Boot 4` `Spring Security` `JWT` `JDBC` `MySQL`
 
-**Highlights:**
 - 🔒 JWT-based auth + role-based access control
 - ⚙️ Reduced boilerplate by **25%** via JDBC optimization
 - 📋 Full CRUD with input validation
@@ -139,7 +104,7 @@ NCR, India
 
 ### ✅ [To-Do Application](https://github.com/Pr4TeeK-Singh/todo-application)
 
-> Full-stack task manager with Spring Security & Bootstrap UI
+> Full-stack task manager with Spring Security & responsive Bootstrap UI
 
 **Tech:** `Spring Boot` `Spring Security` `Thymeleaf` `MySQL` `Bootstrap`
 
@@ -148,7 +113,7 @@ NCR, India
 
 ### 👔 [Employee Management System](https://github.com/Pr4TeeK-Singh/employee-management-system)
 
-> Full-stack app with Angular + Spring Boot + JUnit tests
+> Full-stack app with Angular frontend, Spring Boot backend & JUnit tests
 
 **Tech:** `Spring Boot` `Angular` `MySQL` `JUnit` `REST APIs`
 
@@ -175,25 +140,6 @@ NCR, India
 
 ---
 
-## 🏆 Trophies & Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pr4TeeK-Singh&theme=radical&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/Pr4TeeK-Singh)
-
-</div>
-
-<div align="center">
-
-| 🎖️ Certification | 🏐 Leadership | 🤝 Community |
-|:---:|:---:|:---:|
-| **Java Certificate** — HackerRank | Led college **volleyball team** in inter-college tournaments | **Mentored 1st-year students** in Java & Spring Boot |
-| | Organized annual **college sports fest** | Managed scheduling, registrations & coordination |
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -204,19 +150,7 @@ NCR, India
 
 ---
 
-## 🎓 Education
-
-<div align="center">
-
-| 🏛️ Institution | 📚 Degree | 📅 Duration |
-|:---|:---|:---:|
-| Dr. A. P. J. Abdul Kalam Technical University | B.Tech — Computer Science & Engineering | 2021 – 2025 |
-
-</div>
-
----
-
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 <div align="center">
 

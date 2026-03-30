@@ -175,16 +175,19 @@ Angular 21 SPA consuming a Spring Boot REST API. Full JUnit 5 test coverage — 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pr4TeeK-Singh&show_icons=true&count_private=true&hide_border=true&bg_color=0d0d18&title_color=9d7bff&icon_color=c8ff57&text_color=c9c5d5&include_all_commits=true" height="170"/>
+<!-- Stats + Top Langs — using github-stats.pufler.dev as reliable fallback -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pr4TeeK-Singh&theme=2077" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr4TeeK-Singh&layout=compact&hide_border=true&bg_color=0d0d18&title_color=9d7bff&text_color=c9c5d5&langs_count=6" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pr4TeeK-Singh&theme=2077" height="170"/>
 
 <br/><br/>
 
+<!-- Streak — demolab is reliable, keeping it -->
 <img src="https://streak-stats.demolab.com/?user=Pr4TeeK-Singh&hide_border=true&background=0d0d18&ring=6c47ff&fire=c8ff57&currStreakLabel=9d7bff&sideLabels=9d7bff&dates=6b6776&stroke=6c47ff&sideNums=f0ece4&currStreakNum=f0ece4" height="170"/>
 
 <br/><br/>
 
+<!-- Activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pr4TeeK-Singh&theme=tokyo-night&hide_border=true&bg_color=0d0d18&color=9d7bff&line=6c47ff&point=c8ff57&area=true" width="100%"/>
 
 </div>
